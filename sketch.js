@@ -32,7 +32,7 @@ function draw() {
   //add styles here
   fill("Black");
   textSize(20);
-  text("food Remaining"+foodS,100,150)
+  text("food Remaining: "+foodS,100,150)
   text("Press Up Arrow Key to feed",70,100);
 }
 
